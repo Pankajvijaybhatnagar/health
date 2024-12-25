@@ -31,6 +31,7 @@ const steps: Step[] = [
     image: step1,
     link: "#WhyUs",
     type: "scroll",
+    alt: "Start your healthcare journey in India-Bigbyte Health India",
   },
   {
     number: "2",
@@ -38,6 +39,7 @@ const steps: Step[] = [
     image: step2,
     link: "#explore",
     type: "scroll",
+    alt: "Explore the benefits of medical care in India-Bigbyte Health India",
   },
   {
     number: "3",
@@ -45,6 +47,7 @@ const steps: Step[] = [
     image: step3,
     link: "/treatments",
     type: "redirect",
+    alt: "Search for the right treatment options-Bigbyte Health India",
   },
   {
     number: "4",
@@ -52,6 +55,7 @@ const steps: Step[] = [
     image: step4,
     link: "/appointments",
     type: "redirect",
+    alt: "Schedule your appointment-Bigbyte Health India",
   },
   {
     number: "5",
@@ -59,6 +63,7 @@ const steps: Step[] = [
     image: step5,
     link: "/appointments",
     type: "redirect",
+    alt: "Share your medical history with doctors-Bigbyte Health India",
   },
   {
     number: "6",
@@ -66,6 +71,7 @@ const steps: Step[] = [
     image: step6,
     link: "/contact-us",
     type: "redirect",
+    alt: "Connect with our doctors-Bigbyte Health India",
   },
   {
     number: "7",
@@ -73,6 +79,7 @@ const steps: Step[] = [
     image: step7,
     link: "/travel-information/visa",
     type: "redirect",
+    alt: "Complete your medical visa application-Bigbyte Health India",
   },
   {
     number: "8",
@@ -80,6 +87,7 @@ const steps: Step[] = [
     image: step8,
     link: "/travel-information/accommodation",
     type: "redirect",
+    alt: "Travel to India for your treatment-Bigbyte Health India", 
   },
   {
     number: "9",
@@ -87,6 +95,7 @@ const steps: Step[] = [
     image: step9,
     link: "/contact-us",
     type: "redirect",
+    alt: "Receive your healthcare services-Bigbyte Health India",
   },
   {
     number: "10",
@@ -94,6 +103,7 @@ const steps: Step[] = [
     image: step10,
     link: "/contact-us",
     type: "redirect",
+    alt: "Return home and follow-up with post-treatment care-Bigbyte Health India",
   },
 ];
 
@@ -140,7 +150,7 @@ export default function TimelineGrid() {
                 <div className="w-20 h-20 lg:w-24 lg:h-24 rounded-full flex items-center justify-center mb-4 mt-8">
                   <Image
                     src={step.image}
-                    alt={step.title}
+                    alt={step.alt}
                     width={120}
                     height={120}
                   />

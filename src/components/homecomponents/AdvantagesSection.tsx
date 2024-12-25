@@ -36,28 +36,33 @@ const features = [
     description:
       "Indian medical practitioners have high-quality medical training and are fluent in english",
     image: Profile1,
+    alt: "Trained Medical Practitioners -Bigbyte Health India",
   },
   {
     title: "Quality Treatment",
     description: "40 JCI and 1400+ NABH accredited hospitals available",
     image: Profile2,
+    alt: "Quality Treatment -Bigbyte Health India",
   },
   {
     title: "Affordable Treatment",
     description:
       "Cost of treatment in India is 2-3 times lower compared to most geographies",
     image: Profile3,
+    alt: "Affordable Treatment -Bigbyte Health India",
   },
   {
     title: "Integrative Healthcare for all",
     description:
       "India offers integrative healthcare, a unique mix of indian systems of medicine and modern medicine",
     image: Profile4,
+    alt: "Integrative Healthcare for all -Bigbyte Health India",
   },
   {
     title: "Fast-Track Appointments",
     description: "Patients get immediate treatments with reduced waiting time",
     image: Profile5,
+    alt: "Fast-Track Appointments -Bigbyte Health India",
   },
 ];
 
@@ -85,7 +90,7 @@ export default function AdvantagesSection() {
               <div className="mb-4">
                 <Image
                   src={advantage.image}
-                  alt={`Medal ${index + 1}`}
+                  alt={`medical & wellness tourism market -Bigbyte Health India `}
                   width={advantage.size === "large" ? 150 : 96} // Larger size for the center medal
                   height={advantage.size === "large" ? 150 : 96} // Larger size for the center medal
                   className="object-cover"
@@ -113,7 +118,7 @@ export default function AdvantagesSection() {
               <div className="mb-4">
                 <Image
                   src={feature.image}
-                  alt={feature.title}
+                  alt={feature.alt}
                   width={96} // width of 24rem = 96px
                   height={96} // height of 24rem = 96px
                   className="rounded-full object-cover"

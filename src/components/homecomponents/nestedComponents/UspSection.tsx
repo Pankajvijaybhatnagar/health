@@ -12,41 +12,107 @@ import {
 
 const expertiseItems = [
   {
-    title: "Health and Wellness Beyond Borders",
+    
+    title:"Health and Wellness Beyond Borders",
     description:
       "Explore quality healthcare in India with advanced treatments, cost savings, and travel opportunities.",
-    icon: <FaGlobe size={36} className="text-[#004B65]" />,
+    icon: (
+      <FaGlobe
+        title= "Health and Wellness -bigyte health india"
+        size={36}
+        className="text-[#004B65]"
+        aria-labelledby="healthTitle healthDesc"
+      />
+    ),
+    aria: {
+      titleId: "healthTitle",
+      descId: "healthDesc",
+    },
   },
   {
     title: "Find the Right Doctor for Your Needs",
     description:
       "BigByte Health connects you with leading hospitals and renowned doctors tailored to your medical requirements.",
-    icon: <FaUserMd size={36} className="text-[#004B65]" />,
+    icon: (
+      <FaUserMd
+        title="Find the Right Doctor -Bigbyte health India"
+        size={36}
+        className="text-[#004B65]"
+        aria-labelledby="doctorTitle doctorDesc"
+      />
+    ),
+    aria: {
+      titleId: "doctorTitle",
+      descId: "doctorDesc",
+    },
   },
   {
     title: "Accredited Facilities and World-Class Expertise",
     description:
       "With 650+ accredited hospitals, BigByte Health offers high-quality healthcare with doctors meeting global benchmarks.",
-    icon: <FaHospitalAlt size={36} className="text-[#004B65]" />,
+    icon: (
+      <FaHospitalAlt
+        title="Accredited Facilities and World-Class Expertise-Bigbyte health India"
+        size={36}
+        className="text-[#004B65]"
+        aria-labelledby="facilityTitle facilityDesc"
+      />
+    ),
+    aria: {
+      titleId: "facilityTitle",
+      descId: "facilityDesc",
+    },
   },
   {
     title: "Modern Equipment",
     description:
       "Leveraging advanced technology for precise diagnosis and customized treatments, ensuring the highest standard of patient care.",
-    icon: <FaMicroscope size={36} className="text-[#004B65]" />,
+    icon: (
+      <FaMicroscope
+        title="Modern Equipment-Bigbyte health India"
+        size={36}
+        className="text-[#004B65]"
+        aria-labelledby="equipmentTitle equipmentDesc"
+      />
+    ),
+    aria: {
+      titleId: "equipmentTitle",
+      descId: "equipmentDesc",
+    },
   },
   {
     title: "Quick and Easy Indian Medical Visa Application",
     description:
       "With BigByte Health, apply online in minutes and experience smooth and seamless visa processing.",
-    icon: <FaPassport size={36} className="text-[#004B65]" />,
+    icon: (
+      <FaPassport
+        title="Quick and Easy Indian Medical Visa Application-Bigbyte health India"
+        size={36}
+        className="text-[#004B65]"
+        aria-labelledby="visaTitle visaDesc"
+      />
+    ),
+    aria: {
+      titleId: "visaTitle",
+      descId: "visaDesc",
+    },
   },
-
   {
     title: "Welcoming Accommodation Services",
     description:
       "Your family and caregivers can stay in safe, comfortable accommodations, ensuring peace of mind during your recovery.",
-    icon: <FaHome size={36} className="text-[#004B65]" />,
+    icon: (
+      <FaHome
+        title="Welcoming Accommodation Services-Bigbyte health India"
+        size={36}
+        className="text-[#004B65]"
+        aria-labelledby="accommodationTitle accommodationDesc"
+      />
+    ),
+    aria: {
+      titleId: "accommodationTitle",
+      descId: "accommodationDesc",
+    },
   },
 ];
 
