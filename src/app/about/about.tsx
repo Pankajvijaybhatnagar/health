@@ -11,7 +11,7 @@ const About: React.FC = () => {
         <div className="md:w-1/2">
           <Image
             src={DirectorImage} // Replace with the correct image path
-            alt="Director"
+            alt="Director - Bigbyte Health India"
             layout="responsive"
             width={500}
             className="director-image"
