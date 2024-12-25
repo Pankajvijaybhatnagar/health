@@ -21,7 +21,7 @@ const Medicalbanner1: React.FC = () => {
         <div className="image-section">
           <Image
             src={Doctersimage} // Replace with the path to your image
-            alt="Doctors"
+            alt="expert doctors-bigbyte health india"
             layout="intrinsic"
             width={500}
             height={400}
