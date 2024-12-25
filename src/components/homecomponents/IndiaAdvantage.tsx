@@ -35,7 +35,7 @@ export default function AdvantagesInIndia() {
         <div className="lg:flex-1 lg:ml-10">
           <Image
             src={IndiaImage}
-            alt="Indian Tourist Attractions"
+            alt="Indian Tourist Attractions - Bigbyte Health India"
             layout="responsive"
             width={600}
             height={600}
