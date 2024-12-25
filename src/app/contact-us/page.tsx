@@ -21,6 +21,10 @@ type FormErrors = {
   subject: string;
   message: string;
 };
+export const metadata={
+  title: "BigByte Health India | Contact Us for Healthcare Assistance and Support",
+  description: "Have questions or need assistance? Contact BigByte Health India for expert guidance on medical services, visas, air ambulances, and healthcare solutions."
+}
 
 export default function ContactPage() {
   const [formData, setFormData] = useState<FormData>({

@@ -6,6 +6,13 @@ import { useRouter } from 'next/navigation';
 import { GoogleLogin } from '@react-oauth/google'; // Import Google Login
 import { useAuth } from '@/components/context/AuthContext'; // Ensure AuthContext is correctly imported
 
+export const metadata={
+  title: "BigByte Health India | Book Your Appointment for Expert Healthcare Services",
+  description: "Schedule your appointment with BigByte Health India for personalized healthcare services. Easy booking process for medical consultations, treatments, and expert assistance."
+}
+
+
+
 export default function LoginPage() {
   const { login } = useAuth(); // Use the login function from the Auth context
   const [email, setEmail] = useState('');

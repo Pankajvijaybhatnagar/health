@@ -5,6 +5,12 @@ import { FaHelicopter, FaHeart } from "react-icons/fa";
 import Banner from '@/components/servicescomponent/Banner'
 
 // Sample data based on the image information
+export const metadata={
+  title: "BigByte Health India | Reliable Air Ambulance Services for Medical Emergencies",
+  description:  `BigByte Health India offers swift and dependable air ambulance 
+ services for critical medical emergencies. Experience safe, efficient, 
+and expert medical transportation with our dedicated team.`,
+}
 const fleetData = [
   {
     name: "Redbird Airways Pvt. Ltd.",
