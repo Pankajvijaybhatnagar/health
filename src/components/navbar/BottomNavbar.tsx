@@ -67,7 +67,7 @@ export const BottomNavbar = () => {
                 label: 'Services',
                 dropdown: [
                   { href: '/services/visa', label: 'Visa' },
-                  { href: '/travel-information/accommodation', label: 'Flight' },
+                  { href: '/travel-information/flight-information', label: 'Flight' },
                   { href: '/services/accommodation', label: 'Accommodation' },
                   { href: '/services/local-transport', label: 'Local Transport' },
                   { href: '/services/tourism', label: 'Tourism' },
@@ -79,7 +79,7 @@ export const BottomNavbar = () => {
                 label: 'Travel Information',
                 dropdown: [
                   { href: '/travel-information/visa', label: 'Visa Information' },
-                  { href: '/travel-information/accommodation', label: 'Flight Information' },
+                  { href: '/travel-information/flight-information', label: 'Flight Information' },
                   { href: '/travel-information/air-ambulance', label: 'Air Ambulance' },
                 ],
               },
