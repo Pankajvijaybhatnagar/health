@@ -8,6 +8,12 @@ const BannerComponent = dynamic(() => import("@/components/servicescomponent/Ban
   ssr: false,
 });
 
+
+export const metadata = {
+  title: "Treatments",
+  description: `BigByteHealth India connects you to top medical treatments at leading hospitals. Consult Now to get the Best Treatments At Low Cost In India with BigByte Health.`,
+};
+
 export default function TreatmentsPage() {
   return (
     <div>

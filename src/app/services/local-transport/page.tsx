@@ -5,6 +5,13 @@ import { FaTaxi } from "react-icons/fa"; // Importing the Local-Transport-relate
 import localTransportImageSrc from "../../../../public/sercicesImages/LocalD.png"; // Correctly import the image
 import mobileLocalTransportImageSrc from "../../../../public/sercicesImages/local transport.png"; // Mobile image
 
+
+export const metadata = {
+  title:"Local Transportation Information - BigByteHealth India | Hassle-Free Travel Solutions",
+  description:"BigByteHealth India offers comprehensive local transportation guidance for medical tourists. From airport pickups to hospital transfers, enjoy smooth and reliable travel during your stay",
+};
+
+
 export default function LocalTransportService() {
   // Data for the Local-Transport service
   const localTransportTitle = "Local-Transport";

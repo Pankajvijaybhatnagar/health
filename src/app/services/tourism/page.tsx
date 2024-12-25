@@ -5,6 +5,13 @@ import { FaMapSigns } from "react-icons/fa"; // Importing the Tourism-related ic
 import tourismImageSrc from "../../../../public/sercicesImages/TourismD.png"; // Correctly import the image
 import mobileTourismImageSrc from "../../../../public/sercicesImages/tourism 1.png"; // Mobile image
 
+
+export const metadata = {
+  title:"Medical Tourism in India - BigByteHealth | Explore Health and Travel Together",
+  description: "Discover the best of India with BigByteHealth. Combine world-class medical care with unforgettable tourism experiences. Explore iconic destinations while prioritizing your health.",
+};
+
+
 export default function TourismService() {
   // Data for the Tourism service
   const tourismTitle = "Tourism";

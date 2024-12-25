@@ -5,6 +5,13 @@ import { FaHotel } from "react-icons/fa";  // Importing the Accommodation-relate
 import accommodationImage from "../../../../public/sercicesImages/AccomodationD.png";  // Correctly import the image
 import mobileAccommodationImage from "../../../../public/sercicesImages/accomodation.png"; // Mobile image
 
+
+
+export const metadata = {
+  title:"Travel & Accommodation - BigByteHealth India | Simplified Medical Travel Planning",
+  description: "BigByteHealth India provides essential travel and accommodation information for medical tourists. From flight bookings to comfortable stays near top hospitals, we ensure a seamless healthcare journey.",
+};
+
 export default function AccommodationService() {
   // Data for the Accommodation service
   const accommodationTitle = "Accommodation";

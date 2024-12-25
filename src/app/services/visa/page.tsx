@@ -3,6 +3,13 @@ import { FaPassport } from "react-icons/fa"; // Importing the Visa-related icon
 import visaImageSrc from "../../../../public/sercicesImages/VisaD.png";
 import mobileImageSrc from "../../../../public/sercicesImages/visa.png"; // Mobile image
 
+export const metadata = {
+  title:"Medical Visa Support - BigByteHealth India | Your Trusted Travel Partner",
+  description: "Planning your medical trip to India? BigByteHealth India ensures smooth and efficient medical visa services, guiding you through every step of the process for a worry-free experience.",
+};
+  
+
+
 export default function VisaService() {
   // Data for the Visa service
   const visaTitle = "Visa";
