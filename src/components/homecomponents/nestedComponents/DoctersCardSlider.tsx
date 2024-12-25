@@ -6,6 +6,7 @@ import DRmadan from "../../../../public/Docters/DRHSmadan.jpg";
 import DRyogesh from "../../../../public/Docters/Dryogesh.png";
 import DRneraj from "../../../../public/Docters/Drneeraj.jpg";
 import DRanshuman from "../../../../public/Docters/Dranshuman.jpg";
+import AllTestimonials from "@/app/alltestimonials/page";
 
 const doctors = [
   {
@@ -14,6 +15,7 @@ const doctors = [
     designation: "Orthopedic Surgeon, Joint Replacement Surgeon",
     image: DRmadan,
     background: "Kansas University School of Medicine",
+    alt:"orthopedic surgeon-joint replacement surgeon-hs madan",
   },
   {
     name: "Dr. Yogesh Taneja",
@@ -22,6 +24,7 @@ const doctors = [
       "Urologist, General Surgeon, Laparoscopic Surgeon, Urological Surgeon",
     image: DRyogesh,
     background: "All India Institute of Medical Sciences",
+    alt:"urologist, general surgeon-yogesh taneja",
   },
   {
     name: "Dr. Neeraj Gupta",
@@ -30,6 +33,7 @@ const doctors = [
     designation: "Spine Care Specialist",
     image: DRneraj,
     background: "Spinal Care Academy, USA",
+    alt:"spine care specialist-neeraj gupta",
   },
   {
     name: "Dr. Anshuman Madaan",
@@ -37,6 +41,7 @@ const doctors = [
     designation: "Sr. Consultant- Orthopedic & Joint Replacement Surgeon",
     image: DRanshuman,
     background: "University of Edinburgh",
+    alt:"orthopedic surgeon-joint replacement surgeon-anshuman madaan",
   },
 ];
 
@@ -88,7 +93,7 @@ const DoctorsCarousel = () => {
                 <div className="relative w-full h-56 md:h-52 overflow-hidden rounded-t-lg">
                   <Image
                     src={doctor.image}
-                    alt={doctor.name}
+                    alt={doctor.alt}
                     layout="fill"
                     objectFit="cover"
                     objectPosition="top"

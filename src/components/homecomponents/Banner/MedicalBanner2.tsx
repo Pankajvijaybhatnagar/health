@@ -26,7 +26,7 @@ const MedicalBanner2 = () => {
         <div className={styles.imageSection}>
           <Image
             src={doctorPatient}
-            alt="Doctor with patient"
+            alt="medical treatment-bigbyte health india"
             layout="intrinsic"
             width={600}
             height={400}
