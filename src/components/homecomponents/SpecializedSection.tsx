@@ -17,46 +17,43 @@ import SurgeryIcon from "../../../public/icons/surgery.svg";
 const services = [
   { 
     title: "Cardiology", 
-    icon: <Image src={HeartIcon} alt="Heart Icon" width={50} height={50} /> 
+    icon: <Image src={HeartIcon} alt="Cardiologist - BigByte Health India" width={50} height={50} /> 
   },
   { 
     title: "Obstetrics & Gynecology", 
-    icon: <Image src={UterusIcon} alt="Uterus Icon" width={50} height={50} /> 
+    icon: <Image src={UterusIcon} alt="Obstetrician specialist - BigByte Health India" width={50} height={50} /> 
   },
   { 
     title: "Neurology", 
-    icon: <Image src={BrainIcon} alt="Brain Icon" width={50} height={50} /> 
+    icon: <Image src={BrainIcon} alt="Neurologist specialist - BigByte Health India" width={50} height={50} /> 
   },
   { 
     title: "Nephrology & Urology", 
-    icon: <Image src={KidneyIcon} alt="Kidney Icon" width={50} height={50} /> 
+    icon: <Image src={KidneyIcon} alt="Nephrologist & Urologist specialist - BigByte Health India" width={50} height={50} /> 
   },
   { 
     title: "Oncology", 
-    icon: <Image src={DropIcon} alt="Drop Icon" width={50} height={50} /> 
+    icon: <Image src={DropIcon} alt="Oncologist specialist - BigByte Health India" width={50} height={50} /> 
   },
   { 
     title: "Orthopedic", 
-    icon: <Image src={KneeIcon} alt="Knee Icon" width={50} height={50} /> 
+    icon: <Image src={KneeIcon} alt="Orthopedic specialist - BigByte Health India" width={50} height={50} /> 
   },
   { 
     title: "Ophthalmology", 
-    icon: <Image src={EyeIcon} alt="Eye Icon" width={50} height={50} /> 
+    icon: <Image src={EyeIcon} alt="Ophthalmology specialist - BigByte Health India" width={50} height={50} /> 
   },
- 
   { 
     title: "Dermatology & Cosmetology", 
-    icon: <Image src={FaceIcon} alt="Face Icon" width={50} height={50} /> 
+    icon: <Image src={FaceIcon} alt="Dermatology & Cosmetology specialist - BigByte Health India" width={50} height={50} /> 
   },
   { 
     title: "ENT", 
-    icon: <Image src={EarIcon} alt="Ear Icon" width={50} height={50} /> 
+    icon: <Image src={EarIcon} alt="ENT specialist - BigByte Health India" width={50} height={50} /> 
   },
-  
- 
   { 
     title: "General Surgery", 
-    icon: <Image src={SurgeryIcon} alt="Surgery Icon" width={50} height={50} /> 
+    icon: <Image src={SurgeryIcon} alt="General Surgery specialist - BigByte Health India" width={50} height={50} /> 
   },
   // Add more services as needed
 ];
