@@ -1,0 +1,687 @@
+[
+  {
+    "name": "Allopathy",
+    "categories": [
+      {
+        "categoryName": "Cardiology",
+        "treatments": [
+          "Coronary Artery Bypass Grafting (CABG)",
+          "Percutaneous Coronary Intervention (PCI)",
+          "Cardiac Catheterization",
+          "Angioplasty with Stenting",
+          "Heart Valve Replacement",
+          "Implantable Cardioverter Defibrillator (ICD)",
+          "Transcatheter Aortic Valve Replacement (TAVR)",
+          "Ablation Therapy for Arrhythmias",
+          "Antiplatelet Therapy",
+          "Beta-Blockers for Hypertension"
+        ]
+      },
+      {
+        "categoryName": "Neurology & Urology",
+        "treatments": [
+          "Deep Brain Stimulation (DBS)",
+          "Transcranial Magnetic Stimulation (TMS)",
+          "Urethral Sling Surgery",
+          "Antiepileptic Drugs (AEDs)",
+          "Multiple Sclerosis Immunotherapy",
+          "Neurorehabilitation",
+          "Lithotripsy",
+          "Prostate-Specific Antigen (PSA)",
+          "Alpha Blockers"
+        ]
+      },
+      {
+        "categoryName": "Obstetrics & Gynaecology",
+        "treatments": [
+          "Hormonal Replacement Therapy (HRT)",
+          "In Vitro Fertilization (IVF)",
+          "Laparoscopic Surgery",
+          "Gestational Diabetes Management",
+          "Oral Contraceptive Pills (OCPs)",
+          "Polycystic Ovary Syndrome (PCOS)",
+          "C-Section Delivery",
+          "Preterm Labor Management",
+          "Intrauterine Device (IUD)",
+          "Fertility Preservation Techniques"
+        ]
+      },
+      {
+        "categoryName": "Oncology",
+        "treatments": [
+          "Radiation Therapy",
+          "Immunotherapy",
+          "Chemotherapy",
+          "Targeted Therapy",
+          "Neurosurgical Oncology",
+          "Hormone Therapy",
+          "Radiosurgery",
+          "Cystectomy",
+          "MRI-Guided Ultrasound",
+          "Cytoreductive Surgery"
+        ]
+      },
+      {
+        "categoryName": "Orthopedics",
+        "treatments": [
+          "Joint Replacement Surgery",
+          "Arthroscopy",
+          "Fracture Fixation",
+          "Spinal Fusion Surgery",
+          "Physical Therapy",
+          "Orthopaedic Trauma Surgery",
+          "Platelet-Rich Plasma (PRP) Therapy",
+          "Bone Grafting",
+          "Stem Cell Therapy",
+          "Casting and Bracing"
+        ]
+      },
+      {
+        "categoryName": "Ophthalmology",
+        "treatments": [
+          "LASIK Eye Surgery",
+          "Cataract Surgery",
+          "Intravitreal Injections",
+          "Glaucoma Laser Treatment",
+          "Photorefractive Keratectomy (PRK)",
+          "Vision Correction",
+          "Anti-VEGF Therapy",
+          "Retinal Detachment Repair",
+          "Corneal Transplant Surgery"
+        ]
+      },
+      {
+        "categoryName": "Dermatology & Cosmetology",
+        "treatments": [
+          "Laser Skin Resurfacing",
+          "Topical Corticosteroids",
+          "Botox Injections",
+          "Isotretinoin",
+          "Chemical Peels",
+          "Antibiotics",
+          "Phototherapy",
+          "Hyaluronic Acid Fillers",
+          "Dermabrasion",
+          "Botox Injections"
+        ]
+      },
+      {
+        "categoryName": "ENT",
+        "treatments": [
+          "Endoscopic Sinus Surgery",
+          "Tonsillectomy",
+          "Myringotomy",
+          "Cochlear Implants",
+          "Septoplasty",
+          "Adenoidectomy",
+          "Laser Turbinate Reduction",
+          "Balloon Sinuplasty",
+          "Tympanoplasty",
+          "Speech Therapy"
+        ]
+      },
+      {
+        "categoryName": "General Surgery",
+        "treatments": [
+          "Laparoscopic Surgery",
+          "Robotic-Assisted Surgery",
+          "Wound Care Management",
+          "Hernia Repair Surgery",
+          "Surgical Drainage",
+          "Colonoscopy",
+          "Skin Grafting",
+          "Endoscopic Surgery",
+          "Post-Surgical Rehabilitation",
+          "Laser Surgery"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ayurveda",
+    "categories": [
+      {
+        "categoryName": "Cardiology",
+        "treatments": [
+          "Hridaya Basti",
+          "Panchakarma",
+          "Abhyanga",
+          "Nasya",
+          "Shirodhara",
+          "Yoga and Pranayama",
+          "Dietary Regulation",
+          "Meditation",
+          "Dinacharya",
+          "Ayurvedic Detoxification"
+        ]
+      },
+      {
+        "categoryName": "Neurology & Urology",
+        "treatments": [
+          "Vasti Therapy",
+          "Ayurvedic Rasayana Therapy",
+          "Kashayam",
+          "Shirodhara",
+          "Ayurvedic Treatment",
+          "Vajikarana Therapy",
+          "Abhyanga",
+          "Herbal Decoctions",
+          "Panchakarma",
+          "Kati Basti"
+        ]
+      },
+      {
+        "categoryName": "Obstetrics & Gynaecology",
+        "treatments": [
+          "Uttarbasti",
+          "Sukumar Ghrita",
+          "Ayurvedic Diet for Menstrual Health",
+          "Snehana (Oiling Therapy)",
+          "Garbhasanskar (Prenatal Care)",
+          "Shatavari Kalpa",
+          "Basti Therapy",
+          "Virechana",
+          "Abhyanga",
+          "Ayurvedic Fertility Cleansing (Shodhana)"
+        ]
+      },
+      {
+        "categoryName": "Oncology",
+        "treatments": [
+          "Panchakarma",
+          "Rasayana Therapy",
+          "Ayurvedic Basti",
+          "Shirodhara",
+          "Vata-Pacifying Diet",
+          "Herbal Formulations",
+          "Ayurvedic Oil Massage",
+          "Kati Basti",
+          "Ashwagandha Therapy",
+          "Uttarbasti"
+        ]
+      },
+      {
+        "categoryName": "Orthopedics",
+        "treatments": [
+          "Ayurvedic Basti Therapy",
+          "Mahanarayan Oil Massage",
+          "Guggul",
+          "Abhyanga",
+          "Kati Basti",
+          "Sandhi Shool (Joint Pain) Treatment",
+          "Rasayana Therapy",
+          "Herbal Poultice",
+          "Dashmool"
+        ]
+      },
+      {
+        "categoryName": "Ophthalmology",
+        "treatments": [
+          "Netra Tarpana",
+          "Triphala Ghrita",
+          "Ayurvedic Eye Drops",
+          "Panchakarma Therapy",
+          "Seka (Eye Wash)",
+          "Anjana",
+          "Ayurvedic Diet",
+          "Nasya Therapy",
+          "Basti Therapy",
+          "Shirodhara"
+        ]
+      },
+      {
+        "categoryName": "Dermatology & Cosmetology",
+        "treatments": [
+          "Kumkumadi Oil",
+          "Neem Paste treatment",
+          "Aloe Vera Gel",
+          "Panchakarma",
+          "Manjistha",
+          "Ayurvedic Ubtan",
+          "Turmeric",
+          "Chandan (Sandalwood)",
+          "Triphala",
+          "Ayurvedic Diet"
+        ]
+      },
+      {
+        "categoryName": "ENT",
+        "treatments": [
+          "Nasya Therapy",
+          "Karna Purana",
+          "Gandusha",
+          "Dhumapana",
+          "Pratimarsha Nasya",
+          "Jal Neti",
+          "Ayurvedic Steam Inhalation",
+          "Ayurvedic Gargling",
+          "Shirodhara",
+          "Ayurvedic Diet"
+        ]
+      },
+      {
+        "categoryName": "General Surgery",
+        "treatments": [
+          "Panchakarma",
+          "Snehana (Oiling Therapy)",
+          "Virechana",
+          "Raktamokshana",
+          "Ayurvedic Basti",
+          "Abhyanga",
+          "Pranayama",
+          "Ayurvedic Fomentation Therapy (Swedana)",
+          "Herbal Poultice (Lepa)"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Natural Therapy",
+    "categories": [
+      {
+        "categoryName": "Cardiology",
+        "treatments": [
+          "Mindfulness-Based Stress Reduction (MBSR)",
+          "Acupuncture",
+          "Biofeedback Therapy",
+          "Heart-Healthy Lifestyle Changes",
+          "Aerobic Exercise",
+          "Tai Chi",
+          "Chiropractic Care"
+        ]
+      },
+      {
+        "categoryName": "Neurology & Urology",
+        "treatments": [
+          "Acupuncture",
+          "Cognitive Behavioral Therapy (CBT)",
+          "Biofeedback Therapy",
+          "Herbal Remedies",
+          "Nutritional Therapy",
+          "Pelvic Floor Physical Therapy",
+          "Craniosacral Therapy",
+          "Reflexology",
+          "Chiropractic Care"
+        ]
+      },
+      {
+        "categoryName": "Obstetrics & Gynaecology",
+        "treatments": [
+          "Acupuncture",
+          "Chiropractic Care",
+          "Nutritional Therapy",
+          "Herbal Remedies",
+          "Hydrotherapy",
+          "Mind-Body Therapy",
+          "Natural Childbirth Practices",
+          "Homeopathy",
+          "Pelvic Floor Physical Therapy",
+          "Reflexology"
+        ]
+      },
+      {
+        "categoryName": "Oncology",
+        "treatments": [
+          "Acupuncture",
+          "Mindfulness Meditation",
+          "Cognitive Behavioral Therapy (CBT)",
+          "Biofeedback",
+          "Nutritional Therapy",
+          "Reflexology",
+          "Craniosacral Therapy",
+          "Pelvic Floor Therapy",
+          "Hydrotherapy"
+        ]
+      },
+      {
+        "categoryName": "Orthopedics",
+        "treatments": [
+          "Acupuncture",
+          "Chiropractic Care",
+          "Nutritional Therapy",
+          "Magnetic Therapy",
+          "Hydrotherapy",
+          "Herbal Compress Therapy",
+          "Biofeedback",
+          "Prolotherapy",
+          "Cold and Heat Therapy"
+        ]
+      },
+      {
+        "categoryName": "Ophthalmology",
+        "treatments": [
+          "Acupuncture",
+          "Nutritional Supplements",
+          "Blue Light Blocking Glasses",
+          "Herbal Remedies",
+          "Cold Compress Therapy",
+          "Reflexology",
+          "Eye Exercises",
+          "Hydrotherapy",
+          "Craniosacral Therapy"
+        ]
+      },
+      {
+        "categoryName": "Dermatology & Cosmetology",
+        "treatments": [
+          "Hydrotherapy",
+          "Facial Acupuncture",
+          "Cold Compress Therapy",
+          "Clay Masks",
+          "Natural Exfoliation Treatments",
+          "Aloe Vera Gels",
+          "Herbal Steam Baths",
+          "Dry Brushing",
+          "Mud Therapy",
+          "Cucumber or Honey Masks"
+        ]
+      },
+      {
+        "categoryName": "ENT",
+        "treatments": [
+          "Steam Inhalation",
+          "Warm Compress Therapy",
+          "Saline Nasal Irrigation",
+          "Hydrotherapy",
+          "Acupuncture",
+          "Reflexology",
+          "Cold Compress",
+          "Herbal Ear Drops",
+          "Manual Drainage"
+        ]
+      },
+      {
+        "categoryName": "General Surgery",
+        "treatments": [
+          "Cold Compress Therapy",
+          "Hydrotherapy",
+          "Manual Lymphatic Drainage",
+          "Herbal Compresses",
+          "Acupuncture",
+          "Nutritional Therapy",
+          "Scar Management Therapy",
+          "Cryotherapy",
+          "Compression Therapy"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Yoga",
+    "categories": [
+      {
+        "categoryName": "Cardiology",
+        "treatments": [
+          "Pranayama",
+          "Anulom Vilom",
+          "Savasana",
+          "Setu Bandhasana",
+          "Surya Namaskar",
+          "Bhujangasana",
+          "Vrikshasana",
+          "Viparita Karani",
+          "Trikonasana"
+        ]
+      },
+      {
+        "categoryName": "Neurology & Urology",
+        "treatments": [
+          "Pranayama",
+          "Vrikshasana",
+          "Viparita Karani",
+          "Padmasana",
+          "Bhramari Pranayama",
+          "Malasana",
+          "Tadasana",
+          "Shavasana",
+          "Kapalbhati Pranayama",
+          "Dhanurasana"
+        ]
+      },
+      {
+        "categoryName": "Obstetrics & Gynaecology",
+        "treatments": [
+          "Prenatal Yoga",
+          "Baddha Konasana",
+          "Cat-Cow Pose",
+          "Yoga Nidra",
+          "Utkatasana",
+          "Supta Baddha Konasana",
+          "Viparita Karani Asana",
+          "Pranayama",
+          "Garland Pose",
+          "Shavasana"
+        ]
+      },
+      {
+        "categoryName": "Oncology",
+        "treatments": [
+          "Pranayama",
+          "Yoga Nidra",
+          "Bhujangasana",
+          "Shavasana",
+          "Setu Bandhasana",
+          "Viparita Karani",
+          "Anulom Vilom",
+          "Malasana",
+          "Bhramari Pranayama",
+          "Tadasana"
+        ]
+      },
+      {
+        "categoryName": "Orthopedics",
+        "treatments": [
+          "Tadasana",
+          "Trikonasana",
+          "Vrikshasana",
+          "Utkatasana",
+          "Shalabhasana",
+          "Setu Bandhasana",
+          "Vajrasana",
+          "Bhujangasana",
+          "Supta Padangusthasana",
+          "Shavasana"
+        ]
+      },
+      {
+        "categoryName": "Ophthalmology",
+        "treatments": [
+          "Trataka",
+          "Palming Exercise",
+          "Eye Rotation Exercise",
+          "Pranayama",
+          "Shavasana",
+          "Bhramari Pranayama",
+          "Neck and Shoulder Stretches",
+          "Upward and Downward Eye Movements",
+          "Sun Gazing (With Care)",
+          "Blinking Exercise"
+        ]
+      },
+      {
+        "categoryName": "Dermatology & Cosmetology",
+        "treatments": [
+          "Sarvangasana",
+          "Kapalbhati Pranayama",
+          "Simhasana",
+          "Shirshasana",
+          "Surya Namaskar",
+          "Uttanasana",
+          "Bhujangasana",
+          "Pranayama",
+          "Yoga Nidra",
+          "Meditation"
+        ]
+      },
+      {
+        "categoryName": "ENT",
+        "treatments": [
+          "Jal Neti",
+          "Bhramari Pranayama",
+          "Kapalbhati Pranayama",
+          "Simhasana",
+          "Anulom Vilom",
+          "Ujjayi Pranayama",
+          "Surya Namaskar",
+          "Shavasana",
+          "Bhujangasana",
+          "Meditation"
+        ]
+      },
+      {
+        "categoryName": "General Surgery",
+        "treatments": [
+          "Pranayama",
+          "Circulatory Strength",
+          "Restorative Yoga",
+          "Shavasana",
+          "Anulom Vilom",
+          "Viparita Karani",
+          "Bhujangasana",
+          "Bhramari Pranayama",
+          "Setu Bandhasana",
+          "Supta Baddha Konasana",
+          "Gentle Stretching"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Spa & Massage",
+    "categories": [
+      {
+        "categoryName": "Cardiology ",
+        "treatments": [
+          "Swedish Massage",
+          "Hot Stone Massage",
+          "Aromatherapy Massage",
+          "Reflexology",
+          "Lymphatic Drainage Massage",
+          "Deep Tissue Massage",
+          "Hydrotherapy",
+          "Balneotherapy",
+          "Shiatsu Massage",
+          "Therapeutic Massage"
+        ]
+      },
+      {
+        "categoryName": "Neurology & Urology",
+        "treatments": [
+          "Hot Stone Massage",
+          "Swedish Massage",
+          "Reflexology",
+          "Aromatherapy",
+          "Deep Tissue Massage",
+          "Shiatsu Massage",
+          "Lymphatic Drainage Massage",
+          "Acupressure",
+          "Craniosacral Therapy"
+        ]
+      },
+      {
+        "categoryName": "Obstetrics & Gynaecology",
+        "treatments": [
+          "Prenatal Massage",
+          "Perineal Massage",
+          "Aromatherapy",
+          "Reflexology",
+          "Hydrotherapy",
+          "Swedish Massage",
+          "Hot Stone Therapy",
+          "Lymphatic Drainage Massage",
+          "Deep Tissue Massage"
+        ]
+      },
+      {
+        "categoryName": "Oncology",
+        "treatments": [
+          "Reflexology Massage",
+          "Hot Stone Massage",
+          "Lymphatic Drainage Massage",
+          "Aromatherapy",
+          "Swedish Massage",
+          "Deep Tissue Massage",
+          "Hydrotherapy",
+          "Shiatsu Massage",
+          "Craniosacral Therapy",
+          "Balneotherapy"
+        ]
+      },
+      {
+        "categoryName": "Orthopedics",
+        "treatments": [
+          "Hot Stone Massage",
+          "Swedish Massage",
+          "Deep Tissue Massage",
+          "Lymphatic Drainage Massage",
+          "Reflexology",
+          "Hydrotherapy",
+          "Aromatherapy",
+          "Shiatsu Massage",
+          "Craniosacral Therapy",
+          "Thai Massage"
+        ]
+      },
+      {
+        "categoryName": "Ophthalmology",
+        "treatments": [
+          "Facial Massage",
+          "Aromatherapy",
+          "Cold Stone Therapy",
+          "Reflexology",
+          "Lymphatic Drainage Massage",
+          "Craniosacral Therapy",
+          "Warm Compress Massage",
+          "Shiatsu Massage",
+          "Head and Temple Massage",
+          "Hydrotherapy"
+        ]
+      },
+      {
+        "categoryName": "Dermatology & Cosmetology",
+        "treatments": [
+          "Facial Massages",
+          "Body Scrubbing",
+          "Mud Wraps",
+          "Seaweed Wraps",
+          "Aromatherapy Massage",
+          "Hot Stone Therapy",
+          "Hydrotherapy",
+          "Herbal Steam Baths",
+          "Cold Stone Facial Therapy",
+          "Lymphatic Drainage Massage"
+        ]
+      },
+      {
+        "categoryName": "ENT",
+        "treatments": [
+          "Lymphatic Drainage Massage",
+          "Aromatherapy",
+          "Steam Therapy",
+          "Facial Massage",
+          "Hot Stone Therapy",
+          "Warm Oil Ear Therapy",
+          "Head and Neck Massage",
+          "Hydrotherapy",
+          "Cold Stone Therapy",
+          "Herbal Steam Inhalation"
+        ]
+      },
+      {
+        "categoryName": "General Surgery",
+        "treatments": [
+          "Lymphatic Drainage Massage",
+          "Aromatherapy",
+          "Warm Stone Therapy",
+          "Hydrotherapy Baths",
+          "Deep Tissue Massage",
+          "Hot and Cold Compress Massage",
+          "Scar Massage",
+          "Facial Massage",
+          "Body Wraps",
+          "Herbal Steam Baths"
+        ]
+      }
+    ]
+  }
+]

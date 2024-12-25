@@ -1,0 +1,216 @@
+
+    .ring-shape {
+position: absolute;
+left:70%;
+top:50%;
+width: 400px;
+height: 400px;
+border-radius: 50%;
+border: 20px solid #004c652c; /* Color of the ring */
+background-color: transparent;
+}
+
+.ring-shape2 {
+position: absolute;
+left:30%;
+top:-250px;
+width: 400px;
+height: 400px;
+border-radius: 50%;
+border: 25px solid #004c6560; /* Color of the ring */
+background-color: transparent;
+
+}
+
+
+  .banner {
+    position: relative;
+    width: 100%;
+    height: 60vh; /* 60% viewport height for desktop */
+    max-height: 450px; /* Max height for mobile */
+    background-color: #d7f0ed;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  .banner-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+  }
+
+  .text-section {
+    flex: 1;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    z-index: 2;
+  }
+
+  .heading-primary {
+    font-size: 4rem;
+    color: #333;
+    font-weight: bold;
+    z-index: 2;
+  }
+
+  .heading-secondary {
+    font-size: 3rem;
+    color: #666;
+    font-weight: normal;
+    z-index: 2;
+  }
+
+  .banner-description {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+    color: #555;
+    z-index: 2;
+  }
+
+  .banner-button {
+    margin-top: 1.5rem;
+    padding: 8px 16px;
+    width: 200px; /* Fixed width for the button */
+    background-color: #004b65;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+    z-index: 2;
+  }
+
+  .banner-button:hover {
+    background-color: #003b54;
+  }
+
+  .image-section {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    z-index: 2;
+  }
+
+  .doctor-image {
+    object-fit: cover;
+    object-position: top; /* Ensure the top part of the image is visible */
+  }
+
+  .circle {
+    position: absolute;
+    background-color: #9ee1d3;
+    border-radius: 50%;
+    z-index: 1;
+  }
+
+  .large-circle {
+    width: 300px;
+    height: 300px;
+    top: -100px;
+    left: -50px;
+  }
+
+  .small-circle {
+    width: 100px;
+    height: 100px;
+    bottom: 50px;
+    left: 80px;
+  }
+
+  .shapes .rect {
+    position: absolute;
+    width: 50px;
+    height: 10px;
+    background-color: #333;
+    top: 80px;
+    left: 150px;
+    z-index: 1;
+  }
+
+  .shapes .line {
+    position: absolute;
+    width: 100px;
+    height: 2px;
+    background-color: #333;
+    bottom: 100px;
+    right: 200px;
+    z-index: 1;
+  }
+
+  .shapes .dots {
+    position: absolute;
+    bottom: 80px;
+    right: 150px;
+    z-index: 1;
+  }
+
+  .shapes .dots::before,
+  .shapes .dots::after {
+    content: '';
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background-color: #333;
+    margin: 0 4px;
+  }
+
+  /* Fix overflow issue on small screens */
+  @media (max-width: 768px) {
+    .banner {
+      flex-direction: column;
+      height: 500px; /* Max height for mobile */
+      overflow-x: hidden;
+    }
+
+    .heading-primary {
+      font-size: 2.5rem;
+    }
+
+    .heading-secondary {
+      font-size: 2rem;
+    }
+
+    .banner-description {
+      font-size: 1rem;
+    }
+
+    .banner-button {
+      font-size: 0.9rem;
+      padding: 6px 12px;
+      width: 160px; /* Smaller button for mobile */
+    }
+  }
+
+  @media (max-width: 480px) {
+    .heading-primary {
+      font-size: 2rem;
+    }
+
+    .heading-secondary {
+      font-size: 1.8rem;
+    }
+
+    .banner-description {
+      font-size: 0.9rem;
+    }
+
+    .banner-button {
+      font-size: 0.8rem;
+      width: 140px; /* Further reduced button size for smaller mobile */
+    }
+
+    .image-section {
+      justify-content: center; /* Center the image on smaller screens */
+    }
+  }

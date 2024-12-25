@@ -1,0 +1,1423 @@
+{
+  "Algeria": {
+    "airlines": [
+      "Air Algeria",
+      "Air India",
+      "Qatar Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "57,000 INR - 121,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "EGYPT": {
+    "airlines": [
+      "EgyptAir",
+      "Air India",
+      "IndiGo",
+      "Emirates",
+      "Etihad Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "40,000 INR - 147,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Libya": {
+    "airlines": [
+      "EgyptAir",
+      "Turkish Airlines"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "61,000 INR - 106,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Morocco": {
+    "airlines": [
+      "Royal Air Maroc",
+      "Saudia",
+      "Etihad Airways",
+      "Qatar Airways",
+      "Emirates",
+      "Turkish Airlines",
+      "Kuwait Airways",
+      "EgyptAir",
+      "Lufthansa",
+      "Iberia",
+      "Air Arabia Maroc"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "56,000 INR - 208,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Sudan": {
+    "airlines": [
+      "Air Algeria",
+      "Air India",
+      "Qatar Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "87,000 INR - 200,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Burkina Faso": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Turkish Airlines",
+      "Royal Air Maroc",
+      "Brussels Airlines",
+      "Air France"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "87,000 INR - 129,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Côte d'Ivoire (Ivory Coast)": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Qatar Airways",
+      "Emirates",
+      "Kenya Airways",
+      "Royal Air Maroc"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "73,000 INR - 117,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Gambia": {
+    "airlines": [
+      "Turkish Airlines",
+      "Ethiopian Airlines",
+      "Royal Air Maroc"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "86,000 INR - 389,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Ghana": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Kenya Airways",
+      "Qatar Airways",
+      "Emirates",
+      "EgyptAir",
+      "Air India"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "64,000 INR - 129,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Guinea": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Emirates"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "58,000 INR - 204,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Guinea-Bissau": {
+    "airlines": [
+      "TAP Portugal",
+      "Qatar Airways",
+      "IndiGo Airlines",
+      "Emirates",
+      "Royal Air Maroc"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "57,000 INR - 332,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Liberia": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Turkish Airlines",
+      "Kenya Airways",
+      "Royal Air Maroc",
+      "Emirates"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "136,000 INR - 252,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Mali": {
+    "airlines": [
+      "Turkish Airlines",
+      "Ethiopian Airlines",
+      "Air France",
+      "Qatar Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "87,000 INR - 364,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Niger": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Turkish Airlines",
+      "Royal Air Maroc"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "91,000 INR - 265,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Senegal": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Emirates",
+      "Turkish Airlines",
+      "Royal Air Maroc",
+      "Qatar Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "78,000 INR - 278,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Sierra Leone": {
+    "airlines": [
+      "Kenya Airways",
+      "Ethiopian Airlines",
+      "Royal Air Maroc"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "124,000 INR - 296,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Togo": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Asky Airlines"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "74,000 INR - 228,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Burundi": {
+    "airlines": [
+      "Kenya Airways",
+      "Uganda Airlines",
+      "Ethiopian Airlines"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "65,000 INR - 159,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Comoros": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Kenya Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "88,000 INR - 302,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Djibouti": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Kenya Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "76,000 INR - 134,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Eritrea": {
+    "airlines": [
+      "Ethiopian Airlines"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "48,000 INR - 141,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Ethiopia": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Emirates",
+      "Qatar Airways",
+      "Kenya Airways",
+      "Turkish Airlines"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "48,000 INR - 200,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Congo": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Kenya Airways",
+      "Turkish Airlines",
+      "Qatar Airways."
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "70,000INR - 237,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Equatorial Guinea": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Turkish Airlines",
+      "Air France"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "135,000INR - 275,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Gabon": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Turkish Airlines",
+      "Air France",
+      "Royal Air Maroc"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "109,000INR - 200,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Sao Tome and Principe": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Turkish Airlines",
+      "Air France",
+      "Royal Air Maroc",
+      "TAAG Angola Airlines"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "150,000INR - 314,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Botswana": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Air India",
+      "Air Botswana",
+      "Airlink"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "78,000INR - 115,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Eswatini (formerly Swaziland)": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "South African Airways",
+      "Kenya Airways",
+      "Airlink"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "79,000INR - 140,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Lesotho": {
+    "airlines": [
+      "Kenya Airways",
+      "Qatar Airways",
+      "Airlink"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "97,000INR - 180,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Namibia": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Airlink",
+      "South African",
+      "Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "97,000INR - 142,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "South Africa": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Qatar Airways",
+      "Emirates",
+      "Etihad Airways",
+      "Kenya Airways",
+      ""
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": " 46,000INR - 130,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Cabo Verde": {
+    "airlines": [
+      "TAP Portugal",
+      "Cabo Verde Airlines",
+      "Qatar Airways",
+      "IndiGo Airlines",
+      "Air India"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": " 216,000INR - 255,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Chad": {
+    "airlines": [
+      "Kenya Airways",
+      "Ethiopian Airlines",
+      "Air France",
+      "Turkish Airlines"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": " 84,000INR - 381,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Central African Republic": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Kenya Airways",
+      "Air France",
+      "Turkish Airlines"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "97,000INR - 209,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Cameroon": {
+    "airlines": [
+      "RwandAir",
+      "Air France",
+      "Ethiopian Airlines",
+      "Kenya Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "99,000INR - 357,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Angola": {
+    "airlines": [
+      "Air India",
+      "TAP Portugal",
+      "TAAG Angola Airlines",
+      "Ethiopian Airlines",
+      "IndiGo Airlines"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "84,000INR - 175,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Zimbabwe": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Kenya Airways",
+      "Air India",
+      "Emirates",
+      "Air Tanzania"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": " 61,000INR - 99,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Zambia": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Kenya Airways",
+      "Air India",
+      "Emirates",
+      "Air Tanzania",
+      "RwandAir",
+      "Qatar Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": " 76,000INR - 113,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Uganda": {
+    "airlines": [
+      "Uganda Airlines",
+      "Ethiopian Airlines",
+      "Kenya Airways",
+      "Air India",
+      "Qatar Airways",
+      "Emirates",
+      "Fly Dubai",
+      "Air Arabia"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": " 44,000INR - 138,000  INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Tanzania": {
+    "airlines": [
+      "Air Tanzania",
+      "Ethiopian Airlines",
+      "Kenya Airways",
+      "Oman Air",
+      "Qatar Airways",
+      "Emirates"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "38,000INR - 132,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "South Sudan": {
+    "airlines": [
+      "Fly Dubai",
+      "Ethiopian Airlines",
+      "Kenya Airways",
+      "Turkish Airlines",
+      "Emirates"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "75,000INR - 273,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Somalia": {
+    "airlines": [
+      "Fly Dubai",
+      "Ethiopian Airlines",
+      "Qatar Airways",
+      "Turkish Airlines",
+      "Air India"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "74,000INR - 251,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Seychelles": {
+    "airlines": [
+      "Air Seychelles",
+      "Emirates",
+      "Etihad Airways",
+      "Qatar Airways",
+      "Kenya Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "56,000INR - 285,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Rwanda": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "RwandAir",
+      "EgyptAir",
+      "Qatar Airways",
+      "Kenya Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "66,000INR - 209,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Mozambique": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Qatar Airways",
+      "LAM Mozambique Airlines",
+      "Kenya Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "69,000INR - 253,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Mauritius": {
+    "airlines": [
+      "Air Mauritius",
+      "Vistara",
+      "Kenya Airways",
+      "Emirates"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "63,000INR - 85,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Malawi": {
+    "airlines": [
+      "Ethiopian Airlines",
+      "Kenya Airways",
+      "Air India",
+      "RwandAir"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "94,000INR - 523,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Madagascar": {
+    "airlines": [
+      "Emirates",
+      "Ethiopian Airlines",
+      "Kenya Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "43,000INR - 299,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Kenya": {
+    "airlines": [
+      "Kenya Airways",
+      "Emirates",
+      "Etihad Airways",
+      "Ethiopian Airlines",
+      "Air India"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "31,000INR - 137,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Sri Lanka": {
+    "airlines": [
+      "Emirates",
+      "Qatar Airways",
+      "Etihad Airways",
+      "Singapore Airlines",
+      "Turkish Airlines",
+      "Air India",
+      "Oman Air",
+      "Cathay Pacific",
+      "Malaysia Airlines",
+      "British Airways",
+      "Cinnamon Air"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "17,000 INR - 24,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Bangladesh": {
+    "airlines": [
+      "Air Algeria",
+      "Air India",
+      "Qatar Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "13,000 INR - 95,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Afghanistan:": {
+    "airlines": [
+      "Kam Air",
+      "Ariana Afghan Airlines",
+      "Air India",
+      "SpiceJet"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "75,000 INR - 168,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Myanmar:": {
+    "airlines": [
+      "Myanmar Airways International",
+      "Air India",
+      "IndiGo",
+      "SpiceJet"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "48,000 INR - 258,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Argentina:": {
+    "airlines": [
+      "Qatar Airways",
+      "Emirates",
+      "Turkish Airlines",
+      "Lufthansa",
+      "Air France",
+      "KLM Royal Dutch Airlines",
+      "British Airways",
+      "American Airlines",
+      "Delta Air Lines",
+      "Ethiopian Airlines"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "168,000 INR - 276,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Mozambique:": {
+    "airlines": [
+      "Qatar Airways",
+      "Ethiopian Airlines",
+      "Emirates",
+      "Turkish Airlines",
+      "Kenya Airways",
+      "Airlink"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "70,000 INR - 194,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Nigeria:": {
+    "airlines": [
+      "Qatar Airways",
+      "Emirates",
+      "Ethiopian Airlines",
+      "Turkish Airlines",
+      "Kenya Airways",
+      "British Airways",
+      "EgyptAir"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "52,000 INR - 176,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Azerbaijan": {
+    "airlines": [
+      "Azerbaijan Airlines",
+      "IndiGo",
+      "flynas ",
+      "Uzbekistan Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "24,000INR - 160,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Kyrgyzstan": {
+    "airlines": [
+      "Uzbekistan Airways",
+      "Air Astana",
+      "Wizz Air Abu Dhabi",
+      "Air Arabia"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "37,000INR - 126,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Kazakhstan": {
+    "airlines": [
+      "FlyAristan",
+      "Air Astana",
+      "IndiGo",
+      "Uzbekistan Airways",
+      "Wizz Air Abu Dhabi"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "20,000INR - 145,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Uzbekistan": {
+    "airlines": [
+      "IndiGo",
+      "Air Arabia",
+      "Flydubai",
+      "Emirates",
+      "Qatar Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "19,000INR - 133,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Iran": {
+    "airlines": [
+      "Air Arabia",
+      "Oman Air",
+      "Flydubai",
+      "Jazeera Airways",
+      "Kuwait Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "18,000INR - 269,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Iraq": {
+    "airlines": [
+      "Turkish Airlines",
+      "Qatar Airways",
+      "Royal Jordanian",
+      "Emirates",
+      "Air Arabia"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "51,000INR - 171,000 INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  },
+  "Macedonia": {
+    "airlines": [
+      "Turkish Airlines",
+      "Lufthansa",
+      "Austrian Airlines",
+      "Qatar Airways"
+    ],
+    "airports": [
+      "New Delhi - Indira Gandhi International Airport",
+      "Mumbai - Chhatrapati Shivaji Maharaj International Airport",
+      "Bengaluru - Kempegowda International Airport",
+      "Chennai - Chennai International Airport",
+      "Kolkata - Netaji Subhas Chandra Bose International Airport",
+      "Hyderabad - Rajiv Gandhi International Airport",
+      "Kochi - Cochin International Airport",
+      "Goa - Goa International Airport",
+      "Ahmedabad - Sardar Vallabhbhai Patel International Airport",
+      "Pune - Pune International Airport"
+    ],
+    "cost": "48,000INR - 190,000  INR (Economy Class per adult - one way)",
+    "alternativeTransport": "None"
+  }
+}
