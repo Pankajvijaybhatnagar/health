@@ -12,6 +12,7 @@ import Dranshuman from "../../../public/Docters/Dranshuman.jpg";
 const doctors = [
   {
     name: "Dr. H. S. Madan",
+    alt: "Dr. H. S. Madan BigByte Health India",
     degrees: "MBBS, Diploma in Orthopedics, DNB - Orthopedics",
     designation: "Orthopedic Surgeon, Joint Replacement Surgeon",
     image: DRhsMadan,
@@ -20,6 +21,7 @@ const doctors = [
   },
   {
     name: "Dr. Yogesh Taneja",
+    alt: "Dr. Yogesh Taneja BigByte Health India",
     degrees:
       "MBBS, MS - General Surgery, DNB - Urology/Genito - Urinary Surgery",
     designation:
@@ -30,6 +32,7 @@ const doctors = [
   },
   {
     name: "Dr. Neeraj Gupta",
+    alt: "Dr. Neeraj Gupta BigByte Health India",
     degrees:
       "Senior Consultant Spine Surgeon, Indian Spinal Injuries Centre, FNB Spine Surgery",
     designation:
@@ -40,6 +43,7 @@ const doctors = [
   },
   {
     name: "Dr. Anshuman Madaan",
+    alt: "Dr. Anshuman Madaan BigByte Health India",
     degrees: "MBBS, MS-Orthopedics, MRCS (UK)",
     designation: "Sr. Consultant-Orthopedic & Joint Replacement Surgeon",
     image: Dranshuman,
@@ -64,7 +68,7 @@ export default function DoctorsSection() {
                 <div className="relative w-full h-60">
                   <Image
                     src={doctor.image}
-                    alt={doctor.name}
+                    alt={doctor.alt}
                     fill
                     style={{ objectFit: "cover", objectPosition: "top" }}
                     className="rounded-t-lg"
