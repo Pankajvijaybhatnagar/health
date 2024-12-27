@@ -16,13 +16,21 @@ export const metadata={
 export default function VisaInformation() {
   const visaInfo = [
     {
-      icon: <FaPassport className="text-white w-6 h-6" />,
+      icon: (
+        <span role="img" aria-label="passport bigbyte health india">
+          <FaPassport className="text-white w-6 h-6" />
+        </span>
+      ),
       title: "Medical Visa and Medical Attendant Visa",
       description:
         "India has introduced medical visa and medical attendant visa for the ease and comfort of patients and their loved ones.",
     },
     {
-      icon: <FaGlobe className="text-white w-6 h-6" />,
+      icon: (
+        <span role="img" aria-label="Globe bigbyte health india">
+          <FaGlobe className="text-white w-6 h-6" />
+        </span>
+      ),
       title: "E-Medical Visa",
       description:
         "Currently, India is offering e-medical visa to 150+ countries within 24-48 hours. India also offers regular/paper medical visa application. Ayush treatment has also been included within the medical visa category.",
@@ -30,24 +38,37 @@ export default function VisaInformation() {
       linkUrl: "#",
     },
     {
-      icon: <FaUserFriends className="text-white w-6 h-6" />,
+      icon: (
+        <span role="img" aria-label="User friends bigbyte health india">
+          <FaUserFriends className="text-white w-6 h-6" />
+        </span>
+      ),
       title: "Simplified Processes",
       description:
         "India has simplified the medical visa processes to allow multiple entries and long-term stays to support you and your family in the journey of care and recuperation.",
     },
     {
-      icon: <FaDigitalTachograph className="text-white w-6 h-6" />,
+      icon: (
+        <span role="img" aria-label="Digital tachograph bigbyte health india">
+          <FaDigitalTachograph className="text-white w-6 h-6" />
+        </span>
+      ),
       title: "Digital India",
       description:
         "Standing true to the mandate of a 'Digital India', all processes are digitalized with limited interaction with an Indian official till arrival at immigration counter.",
     },
     {
-      icon: <FaClipboardList className="text-white w-6 h-6" />,
+      icon: (
+        <span role="img" aria-label="Clipboard list bigyte health india">
+          <FaClipboardList className="text-white w-6 h-6" />
+        </span>
+      ),
       title: "Increased Medical Visa Issuance",
       description:
         "While restrictions on visas were imposed following the outbreak of the coronavirus pandemic in February 2020, the number of indian medical visas issued has increased to an estimate of 2,72,190 in 2021 from 1,42,928 in 2020.",
     },
   ];
+  
 
   return (
     <section className="py-12 bg-gray-50">
